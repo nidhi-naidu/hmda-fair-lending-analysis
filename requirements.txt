@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+scikit-learn
+xgboost
+shap
+folium
+esda
+libpysal
+streamlit
+matplotlib
+seaborn
